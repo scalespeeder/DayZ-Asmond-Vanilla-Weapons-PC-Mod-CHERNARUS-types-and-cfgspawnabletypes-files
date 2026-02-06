@@ -2,7 +2,7 @@ DayZ Asmond Vanilla Weapons PC Mod Chernarus types & cfgspawnabletypes xml Files
 
 These files & code snippets will spawn the weapons included in Asmondians "Vanilla Weapons Mod" in the DayZ Chernarus Map, mimicking their Vanilla counterparts (but not replacing them.)
 
-I WOULD CONSIDER THESE FILES A "STARTING POINT" TO GET THE WEAPONS SPAWNING AND ADVIDE YOU CUSTOMIZE THEM TO YOUR NEEDS.
+I WOULD CONSIDER THESE FILES A "STARTING POINT" TO GET THE WEAPONS SPAWNING AND ADVISE YOU CUSTOMIZE THEM TO YOUR NEEDS.
 
 types created with the help of GROK AI.
 
@@ -73,5 +73,6 @@ Save the file and re-upload if necessary.
 		
 
 Restart your server & changes should start to take effect. 
+
 
 GOOD LUCK!
